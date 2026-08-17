@@ -1,0 +1,19 @@
+Computer Society of India (CSI) is the first and largest body of computer professionals in India. It was started on 6 March 1965 by a few computer professionals.
+
+CSI VIT Pune is the student branch of CSI at Vishwakarma Institute of Technology, Pune. It was established to promote technical learning among students through workshops, hackathons, seminars, and hands-on projects.
+
+The AI/ML domain at CSI VIT Pune focuses on artificial intelligence and machine learning technologies. Members work on projects involving LLMs, computer vision, NLP, and RAG systems. The domain conducts workshops on transformer models, decision trees, and neural networks.
+
+RAG (Retrieval-Augmented Generation) is a technique that enhances LLMs by retrieving relevant documents and providing them as context. It was introduced by Lewis et al. in 2020. RAG reduces hallucinations by grounding answers in retrieved facts.
+
+The Web Development domain at CSI creates and maintains the club's website and web applications. They use React, Node.js, and modern frameworks. They build responsive navigation bars, contact forms, and event explorers.
+
+The App Development domain builds mobile applications using Flutter and Dart. They focus on creating user-friendly interfaces and cross-platform apps.
+
+CSI organizes multiple events throughout the year including hackathons, technical workshops, guest lectures by industry professionals, and coding competitions.
+
+The DSA domain focuses on data structures and algorithms, preparing students for coding interviews and competitive programming contests. They conduct regular practice sessions and mock interviews.
+
+The Blockchain domain explores decentralized applications, smart contracts, and blockchain technology solutions. They work on Ethereum-based projects and study case studies of popular DApps.
+
+CSI VIT Pune has a strong social media presence on Instagram and LinkedIn. The Social Media domain manages content creation, event promotion, and community engagement.
