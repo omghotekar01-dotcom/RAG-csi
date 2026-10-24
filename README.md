@@ -32,7 +32,7 @@ The vector database is written under `chroma_db/`. The current script **recreate
 
 - `rag_chatbot.py` — document loading, chunking, indexing, and interactive search
 - `demo_csi.txt` — sample text used for quick testing
-- `chroma_db/` — local ChromaDB persistence files
+- `chroma_db/` — generated local index (ignored by Git; recreated when the script starts)
 
 ## Limitations
 
