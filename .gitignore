@@ -1,0 +1,13 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local ChromaDB index; generated at runtime and may contain indexed document content
+chroma_db/
+
+# Local environment configuration
+.env
+.env.local
+.env.*.local
